@@ -6916,7 +6916,6 @@ dependencies = [
  "net",
  "net_traits",
  "nix",
- "objc2",
  "objc2-app-kit",
  "objc2-foundation",
  "ohos-ime",
